@@ -39,4 +39,4 @@ A collection of Java programs covering core concepts, OOP principles, and practi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Java-Programs-and-Concepts.git
+   git clone https://github.com/jadwinder/Java-Programs-and-Concepts.git
